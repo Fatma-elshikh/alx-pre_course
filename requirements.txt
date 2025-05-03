@@ -1,0 +1,1 @@
+fpdf2==<version>  # Example: fpdf2==1.7.2
