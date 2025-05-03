@@ -1,3 +1,4 @@
+pip install fpdf2
 import streamlit as st
 from fpdf import FPDF
 import datetime
